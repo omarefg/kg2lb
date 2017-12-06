@@ -1,5 +1,5 @@
 {
-  "name": "kg2lb",
+  "name": "@omarefg/kg2lb",
   "version": "0.1.0",
   "description": "Conversor de unidades, de Kg a Lb y viceversa.",
   "main": "dist/src/kg2lb.js",
